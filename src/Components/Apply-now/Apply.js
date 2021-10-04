@@ -5,7 +5,7 @@ import "./Apply.css"
 
 const Apply = () => {
     return (
-        <div className="apply_div">
+        <div className="apply_div mt-5">
             <h1>Application Form</h1>
             
 

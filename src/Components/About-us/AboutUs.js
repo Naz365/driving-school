@@ -1,8 +1,8 @@
 import React from 'react';
-
+import "./About.css"
 const AboutUs = () => {
     return (
-        <div>
+        <div className="div_bg">
             <h2 className="mt-5">About Us</h2>
             <h3>OUR GOAL IS TO MAKE YOU A RESPONSIBLE AND SAFE DRIVER</h3>
             <p>

@@ -59,8 +59,7 @@ function App() {
         </address>
         <p>Copyright © 2021 All rights reserved || Naz365</p>
       </footer>
-
-
+      
     </Router>
     </div>
   );

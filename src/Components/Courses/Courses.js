@@ -9,14 +9,14 @@ const Courses = (props) => {
     <>
     
       <Col>
-        <Card className="h-100 w-75">
+        <Card className="h-100">
           <Card.Img className="image-fluid" variant="top" src= {img}/>
           <Card.Body>
             <Card.Title>{title}</Card.Title>
             <Card.Text>
-              {price}
-              {rating}
-              {Mentor}
+              <h4>{price}</h4>
+              <h4>Rating {rating}</h4>
+            <h2>Mentor{Mentor}</h2>
             </Card.Text>
           </Card.Body>
         </Card>
