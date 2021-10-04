@@ -10,7 +10,7 @@ const Courses = (props) => {
     
       <Col>
         <Card className="h-100">
-          <Card.Img className="image-fluid" variant="top" src= {img}/>
+          <Card.Img className="img-size" variant="top" src= {img}/>
           <Card.Body>
             <Card.Title>{title}</Card.Title>
             <Card.Text>

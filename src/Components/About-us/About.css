@@ -1,3 +1,4 @@
-.div_bg{
-    background-color: lightblue;
+.div_bg {
+  display: grid;
+  grid-template-columns: repeat(3fr 1fr);
 }
