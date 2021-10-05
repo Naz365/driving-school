@@ -17,6 +17,7 @@ const Courses = (props) => {
               <h4>{price}</h4>
               <h4>Rating {rating}</h4>
             <h2>Mentor{Mentor}</h2>
+                
             </Card.Text>
           </Card.Body>
         </Card>

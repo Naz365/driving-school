@@ -15,7 +15,7 @@ const AllCourses = () => {
           <h1>Get Best Driving Courses In one place</h1>
           <h3 className="m-3 p-2">We are committed to deliver best driving courses all over the country</h3>
             <Row xs={1} md={2} className="g-4">
-        {allcourses.map((course) => ( <Courses course={course}></Courses>
+        {allcourses.map((course) => ( <Courses course={course} ></Courses>
         ))}
       </Row>
         </div>
