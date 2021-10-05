@@ -15,7 +15,7 @@ const Home = () => {
   return (
     <>
       <div
-        className="container-fluid bg-primary p-5  "
+        className="container-fluid bg-info p-5  "
         style={{
           height: "55vh",
         }}
