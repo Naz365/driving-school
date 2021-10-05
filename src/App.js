@@ -26,7 +26,7 @@ function App() {
       <Nav.Link as={Link}  to={"/courses"}>Courses</Nav.Link>
       <Nav.Link as={Link}  to={"/apply"}>How To Apply</Nav.Link>
       <Nav.Link as={Link}  to={"/about-us"}>AboutUs</Nav.Link>
-      <Nav.Link as={Link}  to={"*"}>Error 404</Nav.Link>
+      
     </Nav>
     </Container>
   </Navbar>
